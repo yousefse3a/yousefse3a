@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefse3a&label=Profile%20views&color=0e75b6&style=flat" alt="yousefse3a" /> </p>
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently **react js** developer
 
-- 📫 How to reach me **ym6969247@gmail.com**
+- 📫 How to reach me **yousefabusrea@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
